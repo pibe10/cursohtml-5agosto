@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+
+.fondo {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+#imagen1{background-image: url(http://unsplash.it/1200/600);}
+#imagen2{background-image: url(http://unsplash.it/1300/600);}
+#imagen3{background-image: url(http://unsplash.it/1400/600);}
+
+/* vh = viewheight, altura del viewport */
+/* vw = viewwidth, ancho del viewport */
