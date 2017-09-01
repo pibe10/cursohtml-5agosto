@@ -1,0 +1,29 @@
+.btn {
+    color: #fff;
+    background-color: #7f8c8d;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border-bottom: 5px solid grey;
+}
+
+.btn-primary{background-color: #2980b9;}
+
+.btn-secondary{background-color: #27ae60;}
+
+.btn-warning{background-color: #f39c12;}
+
+.btn-danger{background-color: #c0392b;}
+
+/* CUando pase el mouse sobre la clase */
+.btn:hover{
+    background-color: #8e44ad; 
+}
+
+.btn:focus {
+    text-transform: uppercase;
+}
+
+
+
+

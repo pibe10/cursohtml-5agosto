@@ -1,0 +1,51 @@
+body{
+    background-color: #1abc9c;
+    margin: 0;
+}
+
+nav {
+    width: 100%;
+    background-color: #d35400;
+    padding: 30px 0;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.btn{
+    color: #fff;
+    text-transform: uppercase;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px 20px;
+    text-decoration: none;
+    -webkit-transition: all 400ms ease;
+    -moz-transition: all 400ms ease;
+    -ms-transition: all 400ms ease;
+    -o-transition: all 400ms ease;
+    transition: all 400ms ease;
+} /* COMENTARIO EN CSS */
+
+.btn:hover {
+    padding: 20px 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+/* ===== ESTILOS DEL MENU AVANZADO ===== */
+nav ul {
+    list-style: none;           
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+     display: inline-block; 
+     /* Convierte elementos en bloque, en elementos en linea */
+}
+
+/*  
+    TAREA 1: CON LO APRENDIDO, HTML, CSS y COMPONENTES COMO MENU y BOTONES,
+    Hacer un sitio web libre, tema que deseen, etc.
+    
+    - La carpeta de esa tarea, comprimirla en .zip o .rar y subirla al slack.
+    
+*/
+
